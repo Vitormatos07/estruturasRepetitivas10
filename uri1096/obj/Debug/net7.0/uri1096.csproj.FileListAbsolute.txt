@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção5-EstruturasRepetitivas\uri1096\uri1096\bin\Debug\net7.0\uri1096.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção5-EstruturasRepetitivas\uri1096\uri1096\bin\Debug\net7.0\uri1096.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção5-EstruturasRepetitivas\uri1096\uri1096\bin\Debug\net7.0\uri1096.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção5-EstruturasRepetitivas\uri1096\uri1096\bin\Debug\net7.0\uri1096.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção5-EstruturasRepetitivas\uri1096\uri1096\bin\Debug\net7.0\uri1096.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção5-EstruturasRepetitivas\uri1096\uri1096\obj\Debug\net7.0\uri1096.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção5-EstruturasRepetitivas\uri1096\uri1096\obj\Debug\net7.0\uri1096.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção5-EstruturasRepetitivas\uri1096\uri1096\obj\Debug\net7.0\uri1096.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção5-EstruturasRepetitivas\uri1096\uri1096\obj\Debug\net7.0\uri1096.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção5-EstruturasRepetitivas\uri1096\uri1096\obj\Debug\net7.0\uri1096.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção5-EstruturasRepetitivas\uri1096\uri1096\obj\Debug\net7.0\refint\uri1096.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção5-EstruturasRepetitivas\uri1096\uri1096\obj\Debug\net7.0\uri1096.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção5-EstruturasRepetitivas\uri1096\uri1096\obj\Debug\net7.0\uri1096.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\C#\Seção5-EstruturasRepetitivas\uri1096\uri1096\obj\Debug\net7.0\ref\uri1096.dll
